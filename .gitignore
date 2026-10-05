@@ -1,0 +1,6 @@
+.env
+usage.json
+exports/
+.venv/
+__pycache__/
+.pytest_cache/
